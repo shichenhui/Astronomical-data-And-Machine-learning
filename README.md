@@ -1,2 +1,2 @@
-# Astronomical-spectra-And-Machine-learning
+# -and-
 机器学习算法在天体光谱上的应用

@@ -1,0 +1,2 @@
+- DESI 目标下载，通过ra dec进行下载，尺寸可以通过参数设定
+- SDSS目标下载，包括图像和光谱，图像通过ra dec，光谱通过plate、plate、fiberid
